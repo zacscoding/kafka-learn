@@ -7,5 +7,5 @@
 
 # Learn  
 
-- <a href="https://github.com/zacscoding/kafka-learn/book/building-data-streaming/01.메시징시스템소개.md">01. 메시징 시스템 소개 </a> 
+- <a href="https://github.com/zacscoding/kafka-learn/blob/master/book/building-data-streaming/learn/01.%EB%A9%94%EC%8B%9C%EC%A7%95%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%86%8C%EA%B0%9C.md">01. 메시징 시스템 소개 </a> 
 
